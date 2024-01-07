@@ -16,21 +16,24 @@
 
   <dependencies>
 
-    <!-- TestNG -->
     <dependency>
-      <groupId>org.testng</groupId>
-      <artifactId>testng</artifactId>
-      <version>7.8.0</version>
-      <scope>test</scope>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-testng</artifactId>
+      <version>7.15.0</version>
     </dependency>
 
-    <!-- Cucumber -->
-    <!-- cucumber-java -->
     <dependency>
       <groupId>io.cucumber</groupId>
       <artifactId>cucumber-java</artifactId>
       <version>7.15.0</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.16.1</version>
+    </dependency>
+
 
 
   </dependencies>

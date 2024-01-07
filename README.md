@@ -18,3 +18,8 @@ Java, Cucumber, TestNG, JVM, Git ect
 - TBD - TO BE DECIDED
 - TODO (Murad)
 
+# FW Goal
+- FW should be comfortable running into different env such as QA/STAGE/PROD ECT
+- FW should be able to run in different browsers Firefox, Chrome
+- If test fail, then capture log and screenshot
+- Function should be reusable - less duplicate 
